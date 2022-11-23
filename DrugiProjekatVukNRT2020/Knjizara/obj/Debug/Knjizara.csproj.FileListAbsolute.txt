@@ -1,0 +1,13 @@
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\bin\Debug\Knjizara.exe.config
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\bin\Debug\Knjizara.exe
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\bin\Debug\Knjizara.pdb
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.csprojAssemblyReference.cache
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.Form1.resources
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.Properties.Resources.resources
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.csproj.GenerateResource.cache
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.csproj.CoreCompileInputs.cache
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.exe
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.pdb
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.DodajKnjigu.resources
+E:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.VidiSveRacune.resources
+e:\School Files\VISER\Cetvrti Semestar\TVP\TVP_Projekat2_VukA_NRT2020\DrugiProjekatVukNRT2020\Knjizara\obj\Debug\Knjizara.PogledajSatistike.resources
